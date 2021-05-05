@@ -188,8 +188,8 @@ li a:hover {
     position: relative;
     height: 250px;
     width: 300px;
-    left :1000px;
-    top:100px;
+    left :-5px;
+    top:450px;
 }
 
 .image2{
@@ -321,7 +321,7 @@ input[id=FirstName]{
     position: relative;
     height: 120px;
     width: 100px;
-    left :1030px;
+    left :1200px;
     top:-600px;
     
     padding-bottom: 10px;
@@ -330,7 +330,7 @@ input[id=FirstName]{
         position: relative;
         height: 120px;
         width: 100px;
-        left :755px;
+        left :925px;
         top:-400px;
         
         padding-bottom: 10px;
@@ -339,7 +339,7 @@ input[id=FirstName]{
         position: relative;
         height: 120px;
         width: 100px;
-        left :485px;
+        left :650px;
         top:-200px;
         
         padding-bottom: 10px;
